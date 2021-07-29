@@ -1,0 +1,17 @@
+
+n
+java:S2095K"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(¯Ó×Ğÿÿÿÿÿ8Ø Ôğ¬/
+v
+java:S1192V"TDefine a constant instead of duplicating this literal "quickstartcontainer" 8 times.(Œèäöüÿÿÿÿ8ã Ôğ¬/
+o
+java:S1192İ"LDefine a constant instead of duplicating this literal "ROOT_FOLDER" 4 times.(„„‰ùÿÿÿÿ8å Ôğ¬/
+ƒ
+java:S1192r"aDefine a constant instead of duplicating this literal "sampleFile254743665331038531.txt" 3 times.(£ò×œÿÿÿÿÿ8ç Ôğ¬/
+Z
+java:S2589"7Remove this expression which always evaluates to "true"(¸Íææùÿÿÿÿ8ı¡Ôğ¬/
+[
+java:S18547">Remove this useless assignment to local variable "bucketName".(¾´ò8¾¢Ôğ¬/
+U	java:S106;"9Replace this use of System.out or System.err by a logger.(¥æ²Ó8Â¢Ôğ¬/
+Z	java:S106I"9Replace this use of System.out or System.err by a logger.(ÄšÕ·øÿÿÿÿ8Ì¢Ôğ¬/
+L
+java:S14817"/Remove this unused "bucketName" local variable.(¾´ò8ä¦Ôğ¬/

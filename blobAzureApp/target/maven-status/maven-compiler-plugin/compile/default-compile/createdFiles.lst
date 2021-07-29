@@ -1,0 +1,12 @@
+bean/MoveFileRequest$Builder.class
+bean/RztAzureObjectList.class
+bean/RztAzureObject.class
+bean/BlobRequest.class
+bean/CreateFolderResponse.class
+bean/CreateBlobRequest.class
+bean/UploadFileRequest.class
+bean/CreateBlobRequest$Builder.class
+bean/UploadFileRequest$Builder.class
+bean/MoveFileRequest.class
+bean/DataConnectorException.class
+bean/FilePathUtil.class

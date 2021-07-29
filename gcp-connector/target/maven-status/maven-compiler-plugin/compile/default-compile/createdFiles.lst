@@ -1,0 +1,11 @@
+gcpdataconnector/bean/RztGoogleObject.class
+gcpdataconnector/bean/UploadFileRequest.class
+gcpdataconnector/bean/UploadFileRequest$Builder.class
+gcpdataconnector/bean/RztGoogleObjectList.class
+gcpdataconnector/bean/CreateFolderRequest$Builder.class
+gcpdataconnector/bean/MoveFileRequest$Builder.class
+gcpdataconnector/bean/CreateFolderRequest.class
+gcpdataconnector/bean/ExceptionMessageUtil.class
+gcpdataconnector/service/GoogleCloudPlatform.class
+gcpdataconnector/bean/CreateFileRequest.class
+gcpdataconnector/bean/MoveFileRequest.class
